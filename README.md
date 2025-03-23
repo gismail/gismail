@@ -1,8 +1,27 @@
-- 👋 Hi, I’m @gismail
-- 👀 I’m interested in embedded software and web developpement
-- 🌱 I’m currently learning fullstacker tools (mySql PHP React ...)
-- 💞️ I’m looking to collaborate on projects that combine all my knowledge in embedded and web dev 
-- 📫 How to reach me by mail on smailgourmi@gmail.com 
+### 🚀 About Me
+
+👋 Hi, I’m **Smail** (@gismail), a **Full-Stack & Embedded Software Developer** passionate about building high-performance applications.
+
+### 🔥 Interests & Expertise
+
+*   👀 **Web Development**: React (Vite, TypeScript), Node.js, Firebase, MySQL
+    
+*   💻 **Embedded Systems**: Low-level programming, IoT, firmware development
+    
+*   🚀 **Tech Stack**: TypeScript, PHP, Firestore, Vercel, Tailwind CSS
+    
+
+### 📚 Currently Learning
+
+🌱 Deepening my knowledge in **scalable architectures**, **serverless functions**, and **API security**.
+
+### 💡 Looking to Collaborate
+
+💞️ Excited about projects that **bridge embedded systems with modern web technologies**.
+
+### 📫 Get in Touch
+
+📩 Reach me via email: **smailgourmi@gmail.com**
 
 <!---
 gismail/gismail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
